@@ -1,7 +1,7 @@
 # ❤️ Heart Failure Risk Prediction (Machine Learning Web App)
 
 ## 🚀 Live Demo
-https://YOUR-STREAMLIT-LINK.streamlit.app
+https://heart-failure-prediction-bpnbtvdy8hceuxe8sqzbiq.streamlit.app
 
 A Machine Learning based web application that predicts the risk of heart failure in a patient using clinical health parameters.  
 The model is deployed as an interactive web app using **Streamlit**, where users can input medical values and instantly receive prediction results.
